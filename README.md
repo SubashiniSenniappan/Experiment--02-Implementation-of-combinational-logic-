@@ -37,6 +37,7 @@ Screenshot 2023-04-20 210203
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 Developed by:Subasini.s
 RegisterNumber: 212222240106
+~~~
 module expf1(a,b,c,d,f1);
 input a,b,c,d;
 output f1;
@@ -49,7 +50,7 @@ output f2;
 assign f2=((x & y) | (~y & z) | (w & y));
 endmodule 
 */
-
+~~~
 
 ## Output:
 ## RTL realization
