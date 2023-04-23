@@ -54,7 +54,8 @@ endmodule
 ## Output:
 ## RTL realization
 
-![image](https://user-images.githubusercontent.com/119404951/233848892-bd1ad6ef-d127-4d35-99bd-2823318330d9.png)
+![image](https://user-images.githubusercontent.com/119404951/233849455-e805ad81-25d3-4bc7-952a-37bb6954117c.png)
+
 ![image](https://user-images.githubusercontent.com/119404951/233849296-d46333f5-13a5-4bca-a3c5-eb6cd9609840.png)
 
 
